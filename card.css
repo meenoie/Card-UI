@@ -9,7 +9,7 @@ body {
   font-family: "Pretendard-Regular", sans-serif;
   background-color: whitesmoke;
 }
-/* 텍스트 관련 */
+
 a {
   text-decoration: none;
 }
@@ -34,7 +34,6 @@ p.btn-more {
   margin-left: 6px;
 }
 
-/* 이미지 관련 */
 img {
   vertical-align: top;
   width: 100%;
